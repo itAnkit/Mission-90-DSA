@@ -10,3 +10,12 @@ Before Starting , Firstly Learned about the Time and Space Complexity .
 _**Day 1-** Basic Terminologies of Data Structure , Time Complexity , Best Case , Average Case , Worst Case._
 
 _**Day 2-** Asymptotic Notations , Space Complexity , Trade-offs Between Time and Space Complexity._
+
+**Day 3 - 10**
+Recursion & Backtracking
+
+_**Day 3-** Learned about Recursion and Types of recursion such as - Tail Recursion , Non Tail Recursion
+
+_**Day 4-** Learned about Types of recursion and their implementation such as - Indirect Recursion , Nested Recursion._
+
+
