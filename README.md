@@ -18,4 +18,4 @@ _**Day 3-** Learned about Recursion and Types of recursion such as - Tail Recurs
 
 _**Day 4-** Learned about Types of recursion and their implementation such as - Indirect Recursion , Nested Recursion._
 
-
+_**Day 5-** Applied Recursion on basic problems such as - Fibonnaci , Factorial._
