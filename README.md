@@ -21,3 +21,5 @@ _**Day 4-** Learned about Types of recursion and their implementation such as - 
 _**Day 5-** Applied Recursion on basic problems such as - Fibonnaci , Factorial._
 
 _**Day 6-** Questions of Recursion - pattern , length count of string._
+
+_**Day 7-** Questions of Recursion - Sum of digits of a number , Power of a number._
