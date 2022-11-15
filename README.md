@@ -24,4 +24,4 @@ _**Day 6-** Questions of Recursion - pattern , length count of string._
 
 _**Day 7-** Questions of Recursion - Sum of digits of a number , Power of a number._
 
-_**Day 7-** Questions of Recursion - Calculate GCD , Decimal to Binary , Product of Array , Reverse a string , Check a string is Palindrome or not , check whether an                 array consist of an odd number , Find first uppercase letter , Capialize each word of sentence ._
+_**Day 8-** Questions of Recursion - Calculate GCD , Decimal to Binary , Product of Array , Reverse a string , Check a string is Palindrome or not , check whether an array consist of an odd number , Find first uppercase letter , Capialize each word of sentence ._
