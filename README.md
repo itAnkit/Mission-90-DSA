@@ -27,3 +27,5 @@ _**Day 7-** Questions of Recursion - Sum of digits of a number , Power of a numb
 _**Day 8-** Questions of Recursion - Calculate GCD , Decimal to Binary , Product of Array , Reverse a string , Check a string is Palindrome or not ._
 
 _**Day 9-** Questions of Recursion - check whether an array consist of an odd number , Find first uppercase letter , Capialize each word of sentence ._
+
+_**Day 10-** Questions of Recursion - check whether an array is sorted or not , Find first uppercase letter , Capialize each word of sentence , Find the sum of square  of numbers from n to m , Reverse an array._
