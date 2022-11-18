@@ -28,3 +28,5 @@ _**Day 8-** Questions of Recursion - Calculate GCD , Decimal to Binary , Product
 _**Day 9-** Questions of Recursion - check whether an array consist of an odd number , Find first uppercase letter , Capialize each word of sentence ._
 
 _**Day 10-** Questions of Recursion - check whether an array is sorted or not , Find first uppercase letter , Capialize each word of sentence , Find the sum of square  of numbers from n to m , Reverse an array._
+
+_**Day 11-** Some problems using recursion - Towers of Hannoi , minimum of an array , reverese a number._
