@@ -30,3 +30,11 @@ _**Day 9-** Questions of Recursion - check whether an array consist of an odd nu
 _**Day 10-** Questions of Recursion - check whether an array is sorted or not , Find first uppercase letter , Capialize each word of sentence , Find the sum of square  of numbers from n to m , Reverse an array._
 
 _**Day 11-** Some problems using recursion - Towers of Hannoi , minimum of an array , reverese a number._
+
+
+**Day 11 - 30**
+Array , Linked List , Stacks, Queue
+
+_**Day 12-** Learnt about the Basics of Array and its operations (such as- sort() , max() , min() , reverseOrder() )._
+
+
