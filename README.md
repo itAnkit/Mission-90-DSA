@@ -37,4 +37,4 @@ Array , Linked List , Stacks, Queue
 
 _**Day 12-** Learnt about the Basics of Array and its operations (such as- sort() , max() , min() , reverseOrder() )._
 
-
+_**Day 13-** Learnt about the Multi Dimensional Array and how it is stored in the memory i.e , Row Major , Column Major ._
