@@ -38,3 +38,5 @@ Array , Linked List , Stacks, Queue
 _**Day 12-** Learnt about the Basics of Array and its operations (such as- sort() , max() , min() , reverseOrder() )._
 
 _**Day 13-** Learnt about the Multi Dimensional Array and how it is stored in the memory i.e , Row Major , Column Major ._
+
+_**Day 14-** Learnt about the Multi Dimensional Operations and their Time and Space Complexity. Questions - Find the numbers of days having temperature above average, Printing values in random order , Checking an array is perfect or not , Check all values in array are palindrome or not._
