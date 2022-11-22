@@ -40,3 +40,5 @@ _**Day 12-** Learnt about the Basics of Array and its operations (such as- sort(
 _**Day 13-** Learnt about the Multi Dimensional Array and how it is stored in the memory i.e , Row Major , Column Major ._
 
 _**Day 14-** Learnt about the Multi Dimensional Operations and their Time and Space Complexity. Questions - Find the numbers of days having temperature above average, Printing values in random order , Checking an array is perfect or not , Check all values in array are palindrome or not._
+
+_**Day 15-** Questions on Array - Find the missing number from the range, Printing pairs whose sum is equal to target , Checking two arrays are permutation to each other or not  , Kardane Algorithm , First and Second Highest value of array , Removing Dupplicates from an array._
