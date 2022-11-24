@@ -44,3 +44,5 @@ _**Day 14-** Learnt about the Multi Dimensional Operations and their Time and Sp
 _**Day 15-** Questions on Array - Find the missing number from the range, Printing pairs whose sum is equal to target , Checking two arrays are permutation to each other or not  , Kardane Algorithm , First and Second Highest value of array , Removing Dupplicates from an array._
 
 _**Day 16-** Questions on Array - Sorting an array of 0,1,2s , Finding the pairs whose sum is equal to target with Time Complexity O(logN)._
+
+_**Day 17-** Questions on Array - Finding the kth smallest element of array  ,Finding the max sum of a subarray of an array with Time Complexity O(logN)._
