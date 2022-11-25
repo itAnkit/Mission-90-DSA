@@ -46,3 +46,5 @@ _**Day 15-** Questions on Array - Find the missing number from the range, Printi
 _**Day 16-** Questions on Array - Sorting an array of 0,1,2s , Finding the pairs whose sum is equal to target with Time Complexity O(logN)._
 
 _**Day 17-** Questions on Array - Finding the kth smallest element of array  ,Finding the max sum of a subarray of an array with Time Complexity O(logN)._
+
+_**Day 18-** Learnt about Linked List , Types of Linked List , Creating a Linked List , Inserting a node in Linked List And Its Time Complexity._
