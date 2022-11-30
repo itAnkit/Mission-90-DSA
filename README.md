@@ -57,4 +57,4 @@ _**Day 21-** Deleting a node in Circular Singly Linked List , Deleting all nodes
 
 _**Day 22-** Creating a Double Linked List,Inserting a node in Double Linked List, Traversing a Double Linked List, Reverse Traversing a Double Linked List, Search a value in Double Linked List, Deleting a node in Double Linked List, Deleting all nodes from Double Linked List. Basics of Circular Double Linked List, Creating a Circular Double Linked List._
 
-_**Day 22-** Creating a Double Linked List,Inserting a node in Double Linked List, Traversing a Double Linked List, Reverse Traversing a Double Linked List, Search a value in Double Linked List, Deleting a node in Double Linked List, Deleting all nodes from Double Linked List. Basics of Circular Double Linked List, Creating a Circular Double Linked List._
+_**Day 23-** Inserting a node in Circular Double Linked List, Traversing a Circular Double Linked List, Reverse Traversing a Circular Double Linked List, Search a value in Circular Double Linked List, Deleting a node in Circular Double Linked List, Deleting all nodes from Circular Double Linked List.And their Time and Space Complexities._
