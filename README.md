@@ -60,3 +60,5 @@ _**Day 22-** Creating a Double Linked List,Inserting a node in Double Linked Lis
 _**Day 23-** Inserting a node in Circular Double Linked List, Traversing a Circular Double Linked List, Reverse Traversing a Circular Double Linked List, Search a value in Circular Double Linked List, Deleting a node in Circular Double Linked List, Deleting all nodes from Circular Double Linked List.And their Time and Space Complexities._
 
 _**Day 24-** Some basic Problems of Linked List - Sorting a Linked List , Removing the duplicate values from the linked list , Finding the nth last node of a linked list ._
+
+_**Day 25-** Problems of Linked List - Arranging the nodes of the list bases upon the valuee of x , Given two reversed linked list denoting a number return the reversed linked of the sum of the numbers of those two lists , Find the intersecting node between two lists  ._
