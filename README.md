@@ -63,4 +63,6 @@ _**Day 24-** Some basic Problems of Linked List - Sorting a Linked List , Removi
 
 _**Day 25-** Programs of Linked List - Arranging the nodes of the list bases upon the valuee of x , Given two reversed linked list denoting a number return the reversed linked of the sum of the numbers of those two lists , Find the intersecting node between two lists  ._
 
-_**Day 26-** Programs of Linked List - Clonning a Linked List , Merging two Linked List  ._
+_**Day 26-** Programs of Linked List - Reverse a Linked List , Inserting a node at second position , Clonning a Linked List , Merging two Linked List  ._
+
+
