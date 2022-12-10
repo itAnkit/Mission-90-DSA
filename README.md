@@ -65,6 +65,6 @@ _**Day 25-** Programs of Linked List - Arranging the nodes of the list bases upo
 
 _**Day 26-** Programs of Linked List - Reverse a Linked List , Inserting a node at second position , Clonning a Linked List , Merging two Linked List  ._
 
-_**Day 27-** Programs of Linked List - Concatination of two linked lists , Assessment of Linked List ._
+_**Day 27-** Programs of Linked List - Concatination of two linked lists , Assessment of Linked List , Program to return a linked list which represents a number of the sume of two linked list as numbers  ._
 
 
