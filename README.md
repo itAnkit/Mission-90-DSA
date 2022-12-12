@@ -68,3 +68,5 @@ _**Day 26-** Programs of Linked List - Reverse a Linked List , Inserting a node 
 _**Day 27-** Programs of Linked List - Concatination of two linked lists , Assessment of Linked List , Program to return a linked list which represents a number of the sume of two linked list as numbers  ._
 
 _**Day 28-** Programs of Linked List - Another Approach of the Program to return a linked list which represents a number of the sume of two linked list as numbers   i.e by using Carry , Program to check whether the given linked list is palindrome or not._
+
+_**Day 29-** Generalized Linked List , Creation of Generalized Linked List , Reversing a Generalized Linked List with all its sub-lists , Replacing an element from Generalized Linked List , Flattening a Generalized Linked List._
