@@ -70,3 +70,5 @@ _**Day 27-** Programs of Linked List - Concatination of two linked lists , Asses
 _**Day 28-** Programs of Linked List - Another Approach of the Program to return a linked list which represents a number of the sume of two linked list as numbers   i.e by using Carry , Program to check whether the given linked list is palindrome or not._
 
 _**Day 29-** Generalized Linked List , Creation of Generalized Linked List , Reversing a Generalized Linked List with all its sub-lists , Replacing an element from Generalized Linked List , Flattening a Generalized Linked List._
+
+_**Day 30-** Problems of Linked List - Deleting node whose left adjacent value is greater , Keeping only the last existence of an element in a list._
