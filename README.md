@@ -71,6 +71,6 @@ _**Day 28-** Programs of Linked List - Another Approach of the Program to return
 
 _**Day 29-** Generalized Linked List , Creation of Generalized Linked List , Reversing a Generalized Linked List with all its sub-lists , Replacing an element from Generalized Linked List , Flattening a Generalized Linked List._
 
-_**Day 30-** Problems of Linked List - Deleting node whose left adjacent value is greater , Keeping only the last existence of an element in a list ,  Deleting a node without using a head pointer , adding 1 to the number of a linked list._
+_**Day 30-** Problems of Linked List - Deleting node whose left adjacent value is greater , Keeping only the last existence of an element in a list ,  Deleting a node without using a head pointer , adding 1 to the number of a linked list , Deleting the left short node._
 
 *Stacks-*
