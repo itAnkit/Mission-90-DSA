@@ -71,6 +71,6 @@ _**Day 28-** Programs of Linked List - Another Approach of the Program to return
 
 _**Day 29-** Generalized Linked List , Creation of Generalized Linked List , Reversing a Generalized Linked List with all its sub-lists , Replacing an element from Generalized Linked List , Flattening a Generalized Linked List._
 
-_**Day 30-** Problems of Linked List - Deleting node whose left adjacent value is greater , Keeping only the last existence of an element in a list ,  Deleting a node without using a head pointer , adding 1 to the number of a linked list , Deleting the left short node , Some problems from GFG of Single Linked list ,  Slow and Fast Pointers ,  Middle Element of Linked List , Check that whether a linked lsit is palindrome or not , Check whether there exists a cycle or not in linked list._
+_**Day 30-** Problems of Linked List - Deleting node whose left adjacent value is greater , Keeping only the last existence of an element in a list ,  Deleting a node without using a head pointer , adding 1 to the number of a linked list , Deleting the left short node , Some problems from GFG of Single Linked list ,  Slow and Fast Pointers ,  Middle Element of Linked List , Check that whether a linked lsit is palindrome or not , Check whether there exists a cycle or not in linked list , Finding the Nth last node of the linked list , Removing the dupplicate nodes from a sorted linked list._
 
 *Stacks-*
