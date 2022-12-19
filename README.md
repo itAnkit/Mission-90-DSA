@@ -73,4 +73,6 @@ _**Day 29-** Generalized Linked List , Creation of Generalized Linked List , Rev
 
 _**Day 30-** Problems of Linked List - Deleting node whose left adjacent value is greater , Keeping only the last existence of an element in a list ,  Deleting a node without using a head pointer , adding 1 to the number of a linked list , Deleting the left short node , Some problems from GFG of Single Linked list ,  Slow and Fast Pointers ,  Middle Element of Linked List , Check that whether a linked lsit is palindrome or not , Check whether there exists a cycle or not in linked list , Finding the Nth last node of the linked list , Removing the dupplicate nodes from a sorted linked list._
 
-*Stacks-*
+**Stacks-**
+
+_**Day 1-** Intriduction to Stacks , Stack Operations , Stack Implementation using Arrays ,Performing Stack opertions using array, Stack Implementation using Linked list , Performing Stack opertions using Linked List ,Time and Space Complexities of Stack opeartions._
