@@ -75,4 +75,6 @@ _**Day 30-** Problems of Linked List - Deleting node whose left adjacent value i
 
 **Stacks-**
 
-_**Day 1-** Intriduction to Stacks , Stack Operations , Stack Implementation using Arrays ,Performing Stack opertions using array, Stack Implementation using Linked list , Performing Stack opertions using Linked List ,Time and Space Complexities of Stack opeartions , Program to create three Stack in an Single Array and perform their operations._
+_**Day 1-** Introduction to Stacks , Stack Operations , Stack Implementation using Arrays ,Performing Stack opertions using array, Stack Implementation using Linked list , Performing Stack opertions using Linked List ,Time and Space Complexities of Stack opeartions , Program to create three Stack in an Single Array and perform their operations._
+
+_**Day 2-** Problems of Stack - Creating three Stack using a Single Array and performing the Stack Operations , Finding the minimum value of the Stack using Node and performing push , pop , getMin() operations with O(1)._
