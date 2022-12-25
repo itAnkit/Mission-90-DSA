@@ -80,3 +80,5 @@ _**Day 1-** Introduction to Stacks , Stack Operations , Stack Implementation usi
 _**Day 2-** Problems of Stack - Creating three Stack using a Single Array and performing the Stack Operations , Finding the minimum value of the Stack using Node and performing push , pop , getMin() operations with O(1)._
 
 _**Day 3-** Problems of Stack - Checking whether the given Parentheses are balanced or not, Finding the next maximium of an ith element in array using Stack._
+
+_**Day 4-** Problems of Stack - Implementing two Stacks using a Single Array and performing the Operations._
