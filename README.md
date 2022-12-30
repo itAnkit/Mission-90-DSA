@@ -75,12 +75,12 @@ _**Day 30-** Problems of Linked List - Deleting node whose left adjacent value i
 
 **Stacks-**
 
-_**Day 1-** Introduction to Stacks , Stack Operations , Stack Implementation using Arrays ,Performing Stack opertions using array, Stack Implementation using Linked list , Performing Stack opertions using Linked List ,Time and Space Complexities of Stack opeartions , Program to create three Stack in an Single Array and perform their operations._
+_**Day 31-** Introduction to Stacks , Stack Operations , Stack Implementation using Arrays ,Performing Stack opertions using array, Stack Implementation using Linked list , Performing Stack opertions using Linked List ,Time and Space Complexities of Stack opeartions , Program to create three Stack in an Single Array and perform their operations._
 
-_**Day 2-** Problems of Stack - Creating three Stack using a Single Array and performing the Stack Operations , Finding the minimum value of the Stack using Node and performing push , pop , getMin() operations with O(1)._
+_**Day 32-** Problems of Stack - Creating three Stack using a Single Array and performing the Stack Operations , Finding the minimum value of the Stack using Node and performing push , pop , getMin() operations with O(1)._
 
-_**Day 3-** Problems of Stack - Checking whether the given Parentheses are balanced or not, Finding the next maximium of an ith element in array using Stack._
+_**Day 33-** Problems of Stack - Checking whether the given Parentheses are balanced or not, Finding the next maximium of an ith element in array using Stack._
 
-_**Day 4-** Problems of Stack - Implementing two Stacks using a Single Array and performing the Operations,Performing a validation check on the String, Implementing four stacks using a single array._
+_**Day 34-** Problems of Stack - Implementing two Stacks using a Single Array and performing the Operations,Performing a validation check on the String, Implementing four stacks using a single array, Finding the next maximum element using Stack , Sorting a Stack._
 
-_**Day 5-** Basics of Queue_
+_**Day 35-** Basics of Queue_
