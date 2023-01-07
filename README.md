@@ -87,5 +87,5 @@ _**Day 35-** Basics of Queue ,  Queue Opeartions , Implementation of Queue using
 
 _**Day 36-** Circular Queue and its basics , Implementation of Circular queue using array , Performing circular queue operations using array and their time and space complexities._
 
-_**Day 37-** Implementation of Queue using Linked List and performing Queue operations , Difference between implementation of queue using array and using linked list Stack vs Queue  ._
+_**Day 37-** Implementation of Queue using Linked List and performing Queue operations , Difference between implementation of queue using array and using linked list, Stack vs Queue  ._
 
