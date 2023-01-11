@@ -90,3 +90,5 @@ _**Day 36-** Circular Queue and its basics , Implementation of Circular queue us
 _**Day 37-** Implementation of Queue using Linked List and performing Queue operations , Difference between implementation of queue using array and using linked list, Stack vs Queue  ._
 
 _**Day 38-** Array,Linked List , Stack , Queues Questions from Leet Code- Removing Dupplicate elements from linked list, Removing target elements from linked list, Merge two Sorted linked Lists  ,Implementation of Queue using Two Stacks , Finding first unique character in a string , Two strings are Anagrams or not ._
+
+**Day 39-** Understanding & solving the problem of Stack of Plates (source - Gfg ,Leetcode) ._
